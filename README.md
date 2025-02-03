@@ -3,7 +3,9 @@
 This repository contains simple C programs demonstrating various fundamental concepts of the C programming language. These programs are designed to help beginners understand file handling, basic I/O operations, and mathematical computations.
 
 
-Author: ![Logo](https://arprovat.com/assets/img/favicon.ico)[@DProvat](https://github.com/Provat-14) 
+Author: 
+![Logo](https://arprovat.com/assets/img/favicon.ico)[@DProvat](https://github.com/Provat-14) 
+🌐website:[arprova.com](https://arprovat.com) 
 
 ## 📌 Program List
 
