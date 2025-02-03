@@ -4,7 +4,7 @@ This repository contains simple C programs demonstrating various fundamental con
 
 
 Author:[@DProvat](https://github.com/Provat-14)  
-![Logo](https://arprovat.com/assets/img/favicon.ico)[arprova.com](https://arprovat.com) 
+![Logo](https://arprovat.com/assets/img/favicon.ico) [www.arprovat.com](https://arprovat.com/) 
 
 ## 📌 Program List
 
