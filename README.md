@@ -38,7 +38,7 @@ Each program has a corresponding .md file inside the docs/ folder explaining its
    gcc file_io.c -o file_io
    ./file_io
 - For some programs that involve file operations, ensure that the necessary files (`data.txt`, etc.) are in place.
-- 
+
 ## ⚡ Quick Preview (Executables)
 If you just want to test the programs without compiling, you can find the executable files inside the `executables/` folder.
 
